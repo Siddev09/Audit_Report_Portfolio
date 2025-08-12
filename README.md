@@ -1,2 +1,2 @@
-- 4 reports more to come currently more focused on other things
+- 3 - 4 reports more to come, currently more focused on other things
 - soon i update this repo 
