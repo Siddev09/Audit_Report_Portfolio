@@ -1,6 +1,7 @@
 # Staking Rewards Miscounted After Pool Sits Empty
 
 **Severity:** duplicate
+
 **Bug class:** Accounting / reward-distribution logic
 
 ## The Setup 
