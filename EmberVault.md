@@ -1,6 +1,7 @@
 # Withdrawal Fee Bypassed by Moving Shares to a Fresh Wallet
 
 **Severity:** Duplicate
+
 **Bug class:** Access control / economic logic bypass
 
 ## The Setup 
