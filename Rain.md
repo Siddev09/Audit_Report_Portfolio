@@ -1,6 +1,7 @@
 # 1. Anyone Could Cancel Someone Else's Sell Order
 
 **Severity:** Critical
+
 **Bug class:** Access control (missing authorization)
 
 ## The Setup 
@@ -47,6 +48,7 @@ Add the same ownership check that already exists on the buy-order cancellation p
 # 2.  Pool Could Be Closed Before Its Promised End Time
 
 **Severity:** Low
+
 **Bug class:** Trust assumption / design gap
 
 ## The Setup 
