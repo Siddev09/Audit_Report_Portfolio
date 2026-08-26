@@ -1,6 +1,7 @@
 # Dead Guard in Schnorr Signature Verification (Sequencer Forgery)
 
 **Severity:** Low
+
 **Bug class:** Cryptographic verification / dead validation check
 
 ## The Setup 
