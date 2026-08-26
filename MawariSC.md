@@ -1,6 +1,7 @@
 # Reward-Tier Status Stolen From Other Users via Shared Staking Pool
 
-**Severity:** High
+**Severity:** Medium in DualDefence Contest 
+
 **Bug class:** Access control / shared-state accounting
 
 ## The Setup 
