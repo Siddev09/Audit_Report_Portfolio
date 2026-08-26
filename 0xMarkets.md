@@ -1,6 +1,7 @@
 # Partial Withdrawal Wrongly Treated as Full Withdrawal (Position Deleted)
 
 **Severity:** High
+
 **Bug class:** Accounting / state logic error
 
 ## The Setup 
