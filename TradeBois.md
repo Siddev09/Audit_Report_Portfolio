@@ -1,6 +1,7 @@
 # Auction Can Be Permanently Bricked by a Blacklisted Bidder
 
 **Severity:** High in DualDefence Contest  
+
 **Bug class:** Denial of service / unsafe external call handling
 
 ## The Setup 
